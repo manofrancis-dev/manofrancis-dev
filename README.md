@@ -19,12 +19,6 @@ I engineer scalable web applications with a focus on clean architecture, optimiz
 
 ---
 
-## 📊 Engineering Activity
-
-![Manoj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manofrancis-dev&show_icons=true&theme=transparent&hide_border=true&title_color=007acc&icon_color=007acc&text_color=ffffff)
-
----
-
 ## 🤝 Connect
 
 *   **LinkedIn:** [linkedin.com/in/manofrancis-dev](https://linkedin.com/in/manofrancis-dev)
