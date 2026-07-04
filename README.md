@@ -1,16 +1,31 @@
-## Hi there 👋
+# Manoj Francis
 
-<!--
-**manofrancis-dev/manofrancis-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full-Stack Web Developer
 
-Here are some ideas to get you started:
+I engineer scalable web applications with a focus on clean architecture, optimized database design, and intuitive user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Expertise & Technologies
+
+*   **Frontend Architecture**
+    *   React / Next.js / TypeScript / Tailwind CSS
+*   **Backend & Systems**
+    *   Node.js / Express / Python / RESTful APIs
+*   **Databases & Caching**
+    *   PostgreSQL / MongoDB / Redis
+*   **DevOps & Deployment**
+    *   Git / GitHub Actions / Docker / AWS
+
+---
+
+## 📊 Engineering Activity
+
+![Manoj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manofrancis-dev&show_icons=true&theme=transparent&hide_border=true&title_color=007acc&icon_color=007acc&text_color=ffffff)
+
+---
+
+## 🤝 Connect
+
+*   **LinkedIn:** [linkedin.com/in/manofrancis-dev](https://linkedin.com/in/manofrancis-dev)
+*   **Email:** [manojfrancis.dev@gmail.com](mailto:mj4682770@gmail.com)
