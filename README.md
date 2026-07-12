@@ -22,4 +22,4 @@ I engineer scalable web applications with a focus on clean architecture, optimiz
 ## 🤝 Connect
 
 *   **LinkedIn:** [linkedin.com/in/manofrancis-dev](https://linkedin.com/in/manofrancis-dev)
-*   **Email:** [manojfrancis.dev@gmail.com](mailto:mj4682770@gmail.com)
+*   **Email:** [mj4682770@gmail.com](mailto:mj4682770@gmail.com)
